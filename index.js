@@ -1,0 +1,7 @@
+function firstFunc() {
+
+}
+
+function secondFunc() {
+
+}
