@@ -4,5 +4,6 @@ function firstFunc() {
 }
 
 function secondFunc() {
-
+console.log("First")
+  return "first func";
 }
