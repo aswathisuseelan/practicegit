@@ -1,6 +1,7 @@
 function firstFunc() {
-  console.log("First")
-  return "first func";
+    console.log("First")
+    console.log('Welcome')
+    return "first func";
 }
 
 function secondFunc() {
